@@ -30,9 +30,9 @@
 
 #include <M5Stack.h>             // https://github.com/m5stack/M5Stack/
 #include "M5StackUpdater.h"      // https://github.com/tobozo/M5Stack-SD-Updater
-#include "Game_Audio.h";         // http://www.buildlog.net/blog/2018/02/game-audio-for-the-esp32/
-#include "rickrollanim.h";
-#include "rickrollsound.h";
+#include "Game_Audio.h"         // http://www.buildlog.net/blog/2018/02/game-audio-for-the-esp32/
+#include "rickrollanim.h"
+#include "rickrollsound.h"
 
 long count = 0; // Loop count
 int iconpointer = 0;
